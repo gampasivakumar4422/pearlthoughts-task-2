@@ -1,1 +1,1 @@
-# pearlthoughts-task-2
+# strapi
